@@ -1,0 +1,17 @@
+ qwlook tamp hid winx yes_no
+0       s    h   t    g     no
+1       s    h   t    o     no
+2       s    h   n    o    yes
+3       z    c   t    o    yes
+4       z    c   n    g    yes
+5       z    c   n    o     no
+6       z    c   t    o    yes
+7       s    h   n    o     no
+8       s    c   t    g    yes
+9       z    h   t    g    yes
+10      s    c   t    g    yes
+11      z    h   n    o    yes
+12      s    h   n    o    yes
+13      z    c   n    g     no
+4
+0.01611160637018988 0.01611160637018988 0.01611160637018988 0.0013397424044413464
